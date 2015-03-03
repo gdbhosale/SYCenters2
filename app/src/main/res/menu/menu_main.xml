@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/menu_settings">
+        <menu>
+            <item
+                android:id="@+id/menu_addcenter"
+                android:icon="@drawable/addcenter"
+                android:title="Add Center"/>
+            <item
+                android:id="@+id/menu_savecenter"
+                android:icon="@drawable/savedcenter"
+                android:title="Saved Centers"/>
+            
+            <item
+                android:id="@+id/menu_publicprogram"
+                android:icon="@drawable/icon_pp"
+                android:title="Public Programs"/>
+            
+            <item
+                android:id="@+id/menu_aboutapp"
+                android:icon="@drawable/aboutus"
+                android:title="About App"/>
+            
+        </menu>
+    </item>
+    <item
+        android:id="@+id/menu_search"
+        android:actionLayout="@layout/layout_searchbar"
+        android:icon="@drawable/ic_action_search"
+        android:orderInCategory="0"
+        android:showAsAction="always|collapseActionView"
+        android:title="Search"/>
+
+</menu>

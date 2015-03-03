@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.syc"
+    android:versionCode="8"
+    android:versionName="2.2">
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+    <uses-permission android:name="android.permission.READ_CALENDAR" />
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.Sherlock.Light">
+        <activity
+            android:name="com.dwij.syc.controller.SplashScreen"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dwij.syc.controller.SYCenters"
+            android:label="SYCenters"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.ActivityAbout"
+            android:label="About Application"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.ActivityPublicPrograms"
+            android:label="SY Public Programs"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.ActivityProgramAdd"
+            android:label="SY Add Public Programs"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.ActivityProgramUpdate"
+            android:label="SY Update Programs"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.ActivityProgramDisplay"
+            android:label="SY Public Programs"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.ActivityCenterDisplay"
+            android:label="Center Display">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.dwij.syc.controller.ActivityCenterSave"
+            android:label="Saved Center Lists"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.ActivityCenterAdd"
+            android:label="Add New Center"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.ActivityCenterUpdate"
+            android:label="Edit Center Info"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.ActivityCenterListOld"
+            android:label="Old List"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.FollowupActivity"
+            android:label="Followup"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.FollowupAddSeekerActivity"
+            android:label="Add Seeker"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.FollowupRemoveSeekerActivity"
+            android:label="Remove Seeker"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.FollowupSettingsActivity"
+            android:label="Settings"></activity>
+        <activity
+            android:name="com.dwij.syc.controller.FollowupStatsActivity"
+            android:label="Statistics"></activity>
+
+        <receiver android:name="com.dwij.syc.widget.ProgramWidget">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/demo_widget_provider" />
+        </receiver>
+    </application>
+
+</manifest>

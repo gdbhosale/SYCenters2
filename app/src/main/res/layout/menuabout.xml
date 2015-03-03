@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back3" >
+
+    <LinearLayout
+        android:id="@+id/LinearLayout01"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/messagetitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:padding="8.0dip"
+            android:text="@string/abt_title"
+            android:textColor="#336699"
+            android:textSize="23dp" >
+        </TextView>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="2dp"
+            android:padding="8.0dip"
+            android:text="@string/abt_intro"
+            android:textColor="#336699"
+            android:textSize="18dp" >
+        </TextView>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:lineSpacingExtra="2dp"
+            android:padding="8.0dip"
+            android:text="@string/abt_fac"
+            android:textColor="#ffffff"
+            android:textSize="16dp" >
+        </TextView>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:autoLink="email"
+            android:lineSpacingExtra="2dp"
+            android:linksClickable="true"
+            android:padding="8.0dip"
+            android:text="@string/abt_other"
+            android:textColor="#336699"
+            android:textColorHighlight="#FFFFFF"
+            android:textSize="18dp" >
+        </TextView>
+    </LinearLayout>
+
+</ScrollView>

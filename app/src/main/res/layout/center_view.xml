@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back3" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:isScrollContainer="true"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:layout_margin="3dp"
+                android:src="@drawable/ic_launcher" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Center Name:"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/center_name"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="Center Not Available"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:src="@drawable/icon_region" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Region:"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/center_region"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="Not available."
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:src="@drawable/icon_direction" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/center_ll_address"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Address (Click here to see map):"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/center_address"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="Not available."
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/center_ll_time"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:layout_margin="3dp"
+                android:src="@drawable/icon_time" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Time (Click here to set reminder):"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/center_time"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="Address of this program is not available."
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/center_ll_contact1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2sp"
+                android:layout_weight="1"
+                android:background="@drawable/curved_field"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/center_contact1_lable"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:gravity="center"
+                        android:padding="2dp"
+                        android:text="Contact 1 :"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/center_contact1_phone"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:background="@drawable/curved_inner_gray"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Not Available"
+                        android:textColor="#000000"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/center_contact1_email"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:background="@drawable/curved_inner_gray"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Not Available."
+                        android:textColor="#000000"
+                        android:textSize="16sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/center_ll_contact2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2sp"
+                android:layout_weight="1"
+                android:background="@drawable/curved_field"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/center_contact2_lable"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:gravity="center"
+                        android:padding="2dp"
+                        android:text="Contact 2 :"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/center_contact2_phone"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:background="@drawable/curved_inner_gray"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Not Available"
+                        android:textColor="#000000"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/center_contact2_email"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:background="@drawable/curved_inner_gray"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Not available."
+                        android:textColor="#000000"
+                        android:textSize="16sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Strength"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/center_strength"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="777"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/center_btn_sharethis"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Share this" />
+
+            <Button
+                android:id="@+id/center_btn_updatecenter"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Update center info" />
+
+            <Button
+                android:id="@+id/center_btn_closecenter"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="Close center" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

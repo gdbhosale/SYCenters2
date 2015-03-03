@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="fill_parent"
+	android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+	<LinearLayout
+		android:layout_width="fill_parent" android:isScrollContainer="true"
+		android:orientation="vertical" android:layout_height="fill_parent">
+		<TextView android:text="Please make sure that this User is not already there."
+			style="@style/title_style" android:textColor="#FF0066" />
+
+		<TextView
+		    style="@style/title_style"
+		    android:text="Name:" />
+
+		<EditText
+		    android:id="@+id/seekerName"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"
+		    android:hint="Seeker Name"
+		    android:singleLine="true" />
+		<TextView android:text="Center Region:" style="@style/title_style" />
+		<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:id="@+id/linearLayout2"
+			android:orientation="horizontal">
+			<Spinner android:id="@+id/spinnerStatesTwo" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_weight="0.8" />
+			<Spinner android:id="@+id/spinnerDistrictsTwo" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:layout_weight="0.2" />
+		</LinearLayout>
+		<TextView android:text="Select Seeker Center:" style="@style/title_style" />
+		<Spinner android:id="@+id/spiCenter" android:layout_width="match_parent"
+				android:layout_height="wrap_content"  />
+		
+		<View android:id="@+id/sep2" android:background="#CCC"
+			android:layout_width="fill_parent" android:layout_height="2.0px" />
+
+		<TextView
+		    style="@style/title_style"
+		    android:text="Seeker Mobile Number" />
+
+		<EditText android:id="@+id/userMobile" android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:singleLine="true"
+			android:hint="Mobile Number" android:inputType="phone" />
+		<LinearLayout android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:id="@+id/linearLayout3"
+			android:orientation="horizontal">
+			<EditText android:id="@+id/strength" android:layout_width="wrap_content"
+				android:layout_height="wrap_content" android:singleLine="true"
+				android:hint="Strength" android:inputType="number"
+				android:layout_weight="0.4" />
+			<Button android:text="Add Center" android:id="@+id/addCenter"
+				android:layout_width="wrap_content" android:layout_height="fill_parent"
+				android:layout_weight="0.6" />
+		</LinearLayout>
+	</LinearLayout>
+</ScrollView>

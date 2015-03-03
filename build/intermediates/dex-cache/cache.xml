@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/exploded-aar/SYCenters22/ActionBarSherlock/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd800fb2fc20a95cf7be9e619a94e80bb67d7991">
+        <dex dex="/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/pre-dexed/debug/classes-80014f40df7b16e5709720eb57fea11428935824.jar" />
+    </item>
+    <item
+        jar="/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-4e468773e5f4314aa540dba590e5a050b83f46ea.jar" />
+    </item>
+    <item
+        jar="/Users/ganesh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5f111df666091a0870d94a95805d55709a826a2b.jar" />
+    </item>
+    <item
+        jar="/Users/ganesh/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/1.7.1/697e3a1fa094a983cd12f7f6f61abf9c6ea52e2/gson-1.7.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0697e3a1fa094a983cd12f7f6f61abf9c6ea52e2">
+        <dex dex="/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/pre-dexed/debug/gson-1.7.1-b18b5e28277be0a57e97d43fecaf482395313d51.jar" />
+    </item>
+    <item
+        jar="/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/pre-dexed/debug/classes-dbada19eb471ce897d296cf584b78efc6e2a2f5c.jar" />
+    </item>
+
+</items>

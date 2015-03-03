@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/message"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:isScrollContainer="true"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btnAddSeeker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Seeker" />
+
+        <Button
+            android:id="@+id/btnRemoveSeeker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Remove Seeker" />
+
+        <Button
+            android:id="@+id/btnStatistics"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Remove Seeker" />
+
+        <Button
+            android:id="@+id/btnSettings"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Remove Seeker" />
+    </LinearLayout>
+
+</ScrollView>

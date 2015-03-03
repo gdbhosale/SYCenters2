@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/back3" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:isScrollContainer="true"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:layout_margin="3dp"
+                android:src="@drawable/icon" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Program Name:"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/pp_name"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="No programs."
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:src="@drawable/icon_type" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Program Type:"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/pp_type"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="Not available."
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:src="@drawable/icon_region" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Program Region:"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/pp_region"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="Not available."
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/pp_google_map"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:layout_margin="3dp"
+                android:src="@drawable/icon_direction" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Program Address: (Click here to see map.)"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/pp_address"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="Address of this program is not available."
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+              android:id="@+id/ll_setreminder"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:src="@drawable/icon_time" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:orientation="vertical" >
+
+               
+                    <TextView
+                      
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:padding="2dp"
+                        android:text="Program time (Click here to set reminder):"
+                        android:textSize="18sp" />
+
+                   
+             
+
+                <TextView
+                    android:id="@+id/pp_time"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="Not Availble"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:src="@drawable/icon_start" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Program work starts:"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/pp_pworkstart"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="Not Available"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="55sp"
+                android:layout_height="55sp"
+                android:orientation="vertical" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3dp"
+                    android:src="@drawable/icon_address" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Program address living:"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/pp_addressliving"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="None"
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:id="@+id/pp_ll_cont1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2sp"
+                android:layout_weight="1"
+                android:background="@drawable/curved_field"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/pp_contact1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:gravity="center"
+                        android:padding="2dp"
+                        android:text="Contact 1 :"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/pp_contact1_phone"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:background="@drawable/curved_inner_gray"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Not Available"
+                        android:textColor="#000000"
+                        android:textSize="16sp" />
+                      <TextView
+                        android:id="@+id/pp_contact1_email"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:background="@drawable/curved_inner_gray"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Not Available"
+                        android:textColor="#000000"
+                        android:textSize="16sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                 android:id="@+id/pp_ll_cont2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="2sp"
+                android:layout_weight="1"
+                android:background="@drawable/curved_field"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/pp_contact2"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:gravity="center"
+                        android:padding="2dp"
+                        android:text="Contact 2 :"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/pp_contact2_phone"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:background="@drawable/curved_inner_gray"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Not Available"
+                        android:textColor="#000000"
+                        android:textSize="16sp" />
+                    
+                    <TextView
+                        android:id="@+id/pp_contact2_email"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="3sp"
+                        android:background="@drawable/curved_inner_gray"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="Not Available"
+                        android:textColor="#000000"
+                        android:textSize="16sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="7sp"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:padding="2dp"
+                    android:text="Program Description:"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/pp_description"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="3sp"
+                    android:background="@drawable/curved_inner_blue"
+                    android:padding="5dp"
+                    android:text="Description of this program is not available."
+                    android:textColor="#000000"
+                    android:textSize="16sp" />
+            </LinearLayout>
+        </LinearLayout>
+        
+          <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="7sp"
+            android:background="@drawable/curved_field"
+            android:isScrollContainer="true"
+            android:orientation="horizontal" >
+
+           <Button 
+               android:id="@+id/pp_btn_update"
+               android:layout_width="fill_parent"
+               android:layout_height="wrap_content"
+               android:text="Update Program"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

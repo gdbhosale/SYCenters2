@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:isScrollContainer="true"
+        android:orientation="vertical" >
+
+        <TextView
+            style="@style/title_style"
+            android:text="Please make sure that this program is not already there."
+            android:textColor="#FF0066" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Program name:" />
+
+        <EditText
+            android:id="@+id/padd_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="like Shivaji Nagar Program 2013"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Program Type:" />
+
+        <Spinner
+            android:id="@+id/padd_type"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:drawSelectorOnTop="true"
+            android:entries="@array/program_types"
+            android:prompt="@string/spin" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Program Region:" />
+
+        <LinearLayout
+            android:id="@+id/padd_ll_region"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Spinner
+                android:id="@+id/padd_states"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.8" />
+
+            <Spinner
+                android:id="@+id/padd_districts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2.0px"
+            android:background="#CCC" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Program address:" />
+
+        <EditText
+            android:id="@+id/padd_address"
+            android:layout_width="fill_parent"
+            android:layout_height="100.0dip"
+            android:gravity="top"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Program Date:" />
+
+        <DatePicker
+            android:id="@+id/dpProgramTime"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Program time:" />
+
+        <TimePicker
+            android:id="@+id/timePicker1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Program work Starts:" />
+
+        <DatePicker
+            android:id="@+id/dpWorkStart"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Program living address:" />
+
+        <EditText
+            android:id="@+id/padd_livingaddress"
+            android:layout_width="fill_parent"
+            android:layout_height="100.0dip"
+            android:gravity="top"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Co-ordinator I:" />
+
+        <EditText
+            android:id="@+id/padd_coordinator1_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/padd_coordinator1_phone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phone Number"
+            android:inputType="phone"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/padd_coordinator1_email"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email Address"
+            android:inputType="textEmailAddress"
+            android:singleLine="true" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2.0px"
+            android:background="#CCC" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Co-ordinator II:" />
+
+        <EditText
+            android:id="@+id/padd_coordinator2_name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/padd_coordinator2_phone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phone Number"
+            android:inputType="phone"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/padd_coordinator2_email"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email Address"
+            android:inputType="textEmailAddress"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="No. of people:" />
+
+        <EditText
+            android:id="@+id/padd_noOfPeople"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:numeric="integer"
+            android:singleLine="true"
+            android:text="0" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Description:" />
+
+        <EditText
+            android:id="@+id/padd_description"
+            android:layout_width="fill_parent"
+            android:layout_height="100.0dip"
+            android:gravity="top"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Your Email ID:" />
+
+        <EditText
+            android:id="@+id/padd_useremail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email Address"
+            android:inputType="textEmailAddress"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Your Mobile Number:" />
+
+        <EditText
+            android:id="@+id/padd_usermobile"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Mobile Number"
+            android:inputType="phone"
+            android:singleLine="true" />
+
+        <Button
+            android:id="@+id/padd_btn_addprogram"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Add program" />
+    </LinearLayout>
+
+</ScrollView>

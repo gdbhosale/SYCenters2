@@ -1,0 +1,6 @@
+/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/classes/debug
+/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-5f111df666091a0870d94a95805d55709a826a2b.jar
+/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/pre-dexed/debug/gson-1.7.1-b18b5e28277be0a57e97d43fecaf482395313d51.jar
+/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-4e468773e5f4314aa540dba590e5a050b83f46ea.jar
+/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/pre-dexed/debug/classes-80014f40df7b16e5709720eb57fea11428935824.jar
+/Users/ganesh/AndroidStudioProjects/SYCenters22/app/build/intermediates/pre-dexed/debug/classes-dbada19eb471ce897d296cf584b78efc6e2a2f5c.jar

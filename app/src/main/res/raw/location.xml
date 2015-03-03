@@ -1,0 +1,1384 @@
+<Country id='India'>
+	<State id='Andaman_Nicobar' pop='' popyear='' abbr='AN' capital='Port Blair'>
+		<Dist id='North_Middle' pop='' popyear='' abbr='NM'>
+			<Tal id='North_Middle' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='South' pop='' popyear='' abbr='SO'>
+			<Tal id='South' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Nicobar' pop='' popyear='' abbr='NM'>
+			<Tal id='Nicobar' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+	</State>
+	<State id='Andhra_Pradesh' pop='' popyear='' abbr='AP' capital='Hyderabad'>
+		<Dist id='Adilabad' pop='' popyear='' abbr='AD'>
+			<Tal id='Adilabad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Asifabad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bazarhatnoor' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bejjur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bela' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nirmal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Utnoor' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mancherial' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Anantapur' pop='' popyear='' abbr='AN'>
+			<Tal id='Anantapur' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Chittoor' pop='' popyear='' abbr='CH'>
+			<Tal id='Chittoor' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='East_Godavari' pop='' popyear='' abbr='EG'>
+			<Tal id='East_Godavari' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Guntur' pop='' popyear='' abbr='GU'>
+			<Tal id='Guntur' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Hyderabad' pop='' popyear='' abbr='HY'>
+		</Dist>
+		<Dist id='Kadapa' pop='' popyear='' abbr='CU'></Dist>
+		<Dist id='Karimnagar' pop='' popyear='' abbr='KA'></Dist>
+		<Dist id='Khammam' pop='' popyear='' abbr='KH'></Dist>
+		<Dist id='Krishna' pop='' popyear='' abbr='KR'></Dist>
+		<Dist id='Kurnool' pop='' popyear='' abbr='KU'></Dist>
+		<Dist id='Mahbubnagar' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Medak' pop='' popyear='' abbr='ME'></Dist>
+		<Dist id='Nalgonda' pop='' popyear='' abbr='NA'></Dist>
+		<Dist id='Nellore' pop='' popyear='' abbr='NE'></Dist>
+		<Dist id='Nizamabad' pop='' popyear='' abbr='NI'></Dist>
+		<Dist id='Prakasam' pop='' popyear='' abbr='PR'></Dist>
+		<Dist id='Rangareddi' pop='' popyear='' abbr='RA'></Dist>
+		<Dist id='Srikakulam' pop='' popyear='' abbr='SR'></Dist>
+		<Dist id='Vishakhapatnam' pop='' popyear='' abbr='VS'></Dist>
+		<Dist id='Vizianagaram' pop='' popyear='' abbr='VZ'></Dist>
+		<Dist id='West_Godavari' pop='' popyear='' abbr='WG'></Dist>
+	</State>
+	<State id='Arunachal_Pradesh' pop='' popyear='' abbr='AR' capital='Itanagar'>
+		<Dist id='Anjaw' pop='' popyear='' abbr='AJ'></Dist>
+		<Dist id='Changlang' pop='' popyear='' abbr='CH'></Dist>
+		<Dist id='East_Kameng' pop='' popyear='' abbr='EK'></Dist>
+		<Dist id='East_Siang' pop='' popyear='' abbr='ES'></Dist>
+		<Dist id='Lohit' pop='' popyear='' abbr='EL'></Dist>
+		<Dist id='Lower_Subansiri' pop='' popyear='' abbr='LB'></Dist>
+		<Dist id='Papum_Pare' pop='' popyear='' abbr='PA'></Dist>
+		<Dist id='Tawang' pop='' popyear='' abbr='TA'></Dist>
+		<Dist id='Tirap' pop='' popyear='' abbr='TI'></Dist>
+		<Dist id='Dibang_Valley' pop='' popyear='' abbr='UD'></Dist>
+		<Dist id='Upper_Siang' pop='' popyear='' abbr='US'></Dist>
+		<Dist id='Upper_Subansiri' pop='' popyear='' abbr='UB'></Dist>
+		<Dist id='West_Kameng' pop='' popyear='' abbr='WK'></Dist>
+		<Dist id='West_Siang' pop='' popyear='' abbr='WS'></Dist>
+	</State>
+	<State id='Assam' pop='' popyear='' abbr='AS' capital='Dispur'>	
+		<Dist id='Tinsukia' pop='' popyear='' abbr='TI'></Dist>
+		<Dist id='Dibrugarh' pop='' popyear='' abbr='DI'></Dist>
+		<Dist id='Sibsagar' pop='' popyear='' abbr='SI'></Dist>
+		<Dist id='Dhemaji' pop='' popyear='' abbr='DH'></Dist>
+		<Dist id='Jorhat' pop='' popyear='' abbr='JO'></Dist>
+		<Dist id='Lakhimpur' pop='' popyear='' abbr='LA'></Dist>
+		<Dist id='Golaghat' pop='' popyear='' abbr='GO'></Dist>
+		<Dist id='Sonitpur' pop='' popyear='' abbr='SO'></Dist>
+		<Dist id='Karbi_Anglong' pop='' popyear='' abbr='KA'></Dist>
+		<Dist id='Nagaon' pop='' popyear='' abbr='NA'></Dist>
+		<Dist id='Marigaon' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Darrang' pop='' popyear='' abbr='DA'></Dist>
+		<Dist id='Kamrup' pop='' popyear='' abbr='KM'></Dist>
+		<Dist id='Nalbari' pop='' popyear='' abbr='NL'></Dist>
+		<Dist id='Barpeta' pop='' popyear='' abbr='BA'></Dist>
+		<Dist id='Bongaigaon' pop='' popyear='' abbr='BO'></Dist>
+		<Dist id='Goalpara' pop='' popyear='' abbr='GL'></Dist>
+		<Dist id='Kokrajhar' pop='' popyear='' abbr='KK'></Dist>
+		<Dist id='Dhubri' pop='' popyear='' abbr='DH'></Dist>
+		<Dist id='North_Cachar_Hills' pop='' popyear='' abbr='CA'></Dist>
+		<Dist id='Cachar' pop='' popyear='' abbr='CC'></Dist>
+		<Dist id='Hailakandi' pop='' popyear='' abbr='HA'></Dist>
+		<Dist id='Karimganj' pop='' popyear='' abbr='KR'></Dist>
+		<Dist id='Kamrup_Metropolitan' pop='' popyear='' abbr='KM'></Dist>
+		<Dist id='Baksa' pop='' popyear='' abbr='BK'></Dist>
+		<Dist id='Udalguri' pop='' popyear='' abbr='UA'></Dist>
+		<Dist id='Chirang' pop='' popyear='' abbr='CH'></Dist>
+	</State>
+	<State id='Bihar' pop='' popyear='' abbr='BR' capital='Patna'>
+		<Dist id='Araria' pop='' popyear='' abbr='AR'></Dist>
+		<Dist id='Arwal' pop='' popyear='' abbr='AR'></Dist>
+		<Dist id='Aurangabad' pop='' popyear='' abbr='AU'></Dist>
+		<Dist id='Banka' pop='' popyear='' abbr='BA'></Dist>
+		<Dist id='Begusarai' pop='' popyear='' abbr='BE'></Dist>
+		<Dist id='Bhagalpur' pop='' popyear='' abbr='BG'></Dist>
+		<Dist id='Bhojpur' pop='' popyear='' abbr='BJ'></Dist>
+		<Dist id='Buxar' pop='' popyear='' abbr='BU'></Dist>
+		<Dist id='Darbhanga' pop='' popyear='' abbr='DA'></Dist>
+		<Dist id='East_Champaran' pop='' popyear='' abbr='EC'></Dist>
+		<Dist id='Gaya' pop='' popyear='' abbr='GA'></Dist>
+		<Dist id='Gopalganj' pop='' popyear='' abbr='GO'></Dist>
+		<Dist id='Jamui' pop='' popyear='' abbr='JA'></Dist>
+		<Dist id='Jehanabad' pop='' popyear='' abbr='JE'></Dist>
+		<Dist id='Khagaria' pop='' popyear='' abbr='KH'></Dist>
+		<Dist id='Kishanganj' pop='' popyear='' abbr='KI'></Dist>
+		<Dist id='Kaimur' pop='' popyear='' abbr='KM'></Dist>
+		<Dist id='Katihar' pop='' popyear='' abbr='KT'></Dist>
+		<Dist id='Lakhisarai' pop='' popyear='' abbr='LA'></Dist>
+		<Dist id='Madhubani' pop='' popyear='' abbr='MB'></Dist>
+		<Dist id='Munger' pop='' popyear='' abbr='MG'></Dist>
+		<Dist id='Madhepura' pop='' popyear='' abbr='MP'></Dist>
+		<Dist id='Muzaffarpur' pop='' popyear='' abbr='MZ'></Dist>
+		<Dist id='Nalanda' pop='' popyear='' abbr='NL'></Dist>
+		<Dist id='Nawada' pop='' popyear='' abbr='NW'></Dist>
+		<Dist id='Patna' pop='' popyear='' abbr='PA'></Dist>
+		<Dist id='Purnia' pop='' popyear='' abbr='PU'></Dist>
+		<Dist id='Rohtas' pop='' popyear='' abbr='RO'></Dist>
+		<Dist id='Saharsa' pop='' popyear='' abbr='SH'></Dist>
+		<Dist id='Samastipur' pop='' popyear='' abbr='SM'></Dist>
+		<Dist id='Sheohar' pop='' popyear='' abbr='SO'></Dist>
+		<Dist id='Sheikhpura' pop='' popyear='' abbr='SP'></Dist>
+		<Dist id='Saran' pop='' popyear='' abbr='SR'></Dist>
+		<Dist id='Sitamarhi' pop='' popyear='' abbr='ST'></Dist>
+		<Dist id='Supaul' pop='' popyear='' abbr='SU'></Dist>
+		<Dist id='Siwan' pop='' popyear='' abbr='SW'></Dist>
+		<Dist id='Vaishali' pop='' popyear='' abbr='VA'></Dist>
+		<Dist id='West_Champaran' pop='' popyear='' abbr='WC'></Dist>
+	</State>
+	<State id='Chandigarh' pop='' popyear='' abbr='CH' capital='Chandigarh'>
+		<Dist id='Chandigarh' pop='' popyear='' abbr='CH'>
+			<Tal id='Chandigarh' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+	</State>
+	<State id='Chhattisgarh' pop='' popyear='' abbr='CG' capital='Raipur'>
+     	<Dist id='Bastar' pop='' popyear='' abbr='BA'></Dist>
+		<Dist id='Bilaspur' pop='' popyear='' abbr='BI'></Dist>
+		<Dist id='Dantewada' pop='' popyear='' abbr='DA'></Dist>
+		<Dist id='Dhamtari' pop='' popyear='' abbr='DH'></Dist>
+		<Dist id='Durg' pop='' popyear='' abbr='DU'></Dist>
+		<Dist id='Jashpur' pop='' popyear='' abbr='JA'></Dist>
+		<Dist id='Janjgir_Champa' pop='' popyear='' abbr='JC'></Dist>
+		<Dist id='Korba' pop='' popyear='' abbr='KB'></Dist>
+		<Dist id='Koriya' pop='' popyear='' abbr='KJ'></Dist>
+		<Dist id='Kanker' pop='' popyear='' abbr='KK'></Dist>
+		<Dist id='Kawardha' pop='' popyear='' abbr='KW'></Dist>
+		<Dist id='Mahasamund' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Raigarh' pop='' popyear='' abbr='RG'></Dist>
+		<Dist id='Rajnandgaon' pop='' popyear='' abbr='RN'></Dist>
+		<Dist id='Raipur' pop='' popyear='' abbr='RP'></Dist>
+		<Dist id='Surguja' pop='' popyear='' abbr='SU'></Dist>
+	</State>
+	<State id='Dadra_Nagar_Haveli' pop='' popyear='' abbr='DN' capital="Silvassa">
+		<Dist id='Dadra' pop='' popyear='' abbr='DA'>
+			<Tal id='Dadra' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Nagar_Haveli' pop='' popyear='' abbr='NH'>
+			<Tal id='Nagar_Haveli' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Silvassa' pop='' popyear='' abbr='SI'>
+			<Tal id='Silvassa' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+	</State>
+	<State id='Daman_Diu' pop='' popyear='' abbr='DD' capital="Daman">
+		<Dist id='Diu' pop='' popyear='' abbr='DU'></Dist>
+		<Dist id='Daman' pop='' popyear='' abbr='DM'></Dist>
+	</State>
+	<State id='Delhi' pop='' popyear='' abbr='DL' capital='Delhi'>
+		<Dist id='Central_Delhi' pop='' popyear='' abbr='CD'></Dist>
+		<Dist id='East_Delhi' pop='' popyear='' abbr='ED'></Dist>
+		<Dist id='New_Delhi' pop='' popyear='' abbr='ND'></Dist>
+		<Dist id='North_Delhi' pop='' popyear='' abbr='NO'></Dist>
+		<Dist id='North_East_Delhi' pop='' popyear='' abbr='NE'></Dist>
+		<Dist id='North_West_Delhi' pop='' popyear='' abbr='NW'></Dist>
+		<Dist id='South_Delhi' pop='' popyear='' abbr='SD'></Dist>
+		<Dist id='South_West_Delhi' pop='' popyear='' abbr='SW'></Dist>
+		<Dist id='West_Delhi' pop='' popyear='' abbr='WD'></Dist>
+	</State>
+	<State id='Goa' pop='' popyear='' abbr='GA' capital='Panaji'>
+		<Dist id='North_Goa' pop='' popyear='' abbr='NG'></Dist>
+		<Dist id='South_Goa' pop='' popyear='' abbr='SG'></Dist>
+	</State>
+	<State id='Gujarat' pop='' popyear='' abbr='GJ' capital='Gandhinagar'>
+	    <Dist id='Ahmedabad' pop='' popyear='' abbr='AH'></Dist>
+		<Dist id='Amreli' pop='' popyear='' abbr='AM'></Dist>
+		<Dist id='Anand' pop='' popyear='' abbr='AN'></Dist>
+		<Dist id='Banaskantha' pop='' popyear='' abbr='BK'></Dist>
+		<Dist id='Bharuch' pop='' popyear='' abbr='BR'></Dist>
+		<Dist id='Bhavnagar' pop='' popyear='' abbr='BV'></Dist>
+		<Dist id='Dahod' pop='' popyear='' abbr='DA'></Dist>
+		<Dist id='Ahwa' pop='' popyear='' abbr='DG'></Dist>
+		<Dist id='Gandhinagar' pop='' popyear='' abbr='GA'></Dist>
+		<Dist id='Jamnagar' pop='' popyear='' abbr='JA'></Dist>
+		<Dist id='Junagadh' pop='' popyear='' abbr='JU'></Dist>
+		<Dist id='Kutch' pop='' popyear='' abbr='KA'></Dist>
+		<Dist id='Kheda' pop='' popyear='' abbr='KH'></Dist>
+		<Dist id='Mehsana' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Narmada' pop='' popyear='' abbr='NR'></Dist>
+		<Dist id='Navsari' pop='' popyear='' abbr='NV'></Dist>
+		<Dist id='Patan' pop='' popyear='' abbr='PA'></Dist>
+		<Dist id='Panchmahal' pop='' popyear='' abbr='PM'></Dist>
+		<Dist id='Porbandar' pop='' popyear='' abbr='PO'></Dist>
+		<Dist id='Rajkot' pop='' popyear='' abbr='RA'></Dist>
+		<Dist id='Sabarkantha' pop='' popyear='' abbr='SK'></Dist>
+		<Dist id='Surendranagar' pop='' popyear='' abbr='SN'></Dist>
+		<Dist id='Surat' pop='' popyear='' abbr='ST'></Dist>
+		<Dist id='Vadodara' pop='' popyear='' abbr='VD'></Dist>
+		<Dist id='Valsad' pop='' popyear='' abbr='VL'></Dist>
+	</State>
+	<State id='Haryana' pop='' popyear='' abbr='HR' capital='Chandigarh'>
+		<Dist id='Ambala' pop='' popyear='' abbr='AM'></Dist>	
+		<Dist id='Bhiwani' pop='' popyear='' abbr='BH'></Dist>	
+		<Dist id='Faridabad' pop='' popyear='' abbr='FR'></Dist>
+		<Dist id='Fatehabad' pop='' popyear='' abbr='FT'></Dist>
+		<Dist id='Gurgaon' pop='' popyear='' abbr='GU'></Dist>
+		<Dist id='Hissar' pop='' popyear='' abbr='HI'></Dist>
+		<Dist id='Jhajjar' pop='' popyear='' abbr='JH'></Dist>
+		<Dist id='Jind' pop='' popyear='' abbr='JI'></Dist>
+		<Dist id='Karnal' pop='' popyear='' abbr='KR'></Dist>
+		<Dist id='Kaithal' pop='' popyear='' abbr='KT'></Dist>
+		<Dist id='Kurukshetra' pop='' popyear='' abbr='KU'></Dist>
+		<Dist id='Mahendragarh' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Mewat' pop='' popyear='' abbr='WM'></Dist>
+		<Dist id='Panchkula' pop='' popyear='' abbr='PK'></Dist>
+		<Dist id='Panipat' pop='' popyear='' abbr='PP'></Dist>
+		<Dist id='Rewari' pop='' popyear='' abbr='RE'></Dist>
+		<Dist id='Rohtak' pop='' popyear='' abbr='RO'></Dist>
+		<Dist id='Sirsa' pop='' popyear='' abbr='SI'></Dist>
+		<Dist id='Sonepat' pop='' popyear='' abbr='SNP'></Dist>
+		<Dist id='Yamuna_Nagar' pop='' popyear='' abbr='YN'></Dist>
+		<Dist id='Palwal' pop='' popyear='' abbr='PW'></Dist>
+	</State>
+	<State id='Himachal_Pradesh' pop='' popyear='' abbr='HP' capital='Shimla'>
+		<Dist id='Bilaspur' pop='' popyear='' abbr='BI'></Dist>	
+		<Dist id='Chamba' pop='' popyear='' abbr='CH'></Dist>	
+		<Dist id='Hamirpur' pop='' popyear='' abbr='HA'></Dist>	
+		<Dist id='Kangra' pop='' popyear='' abbr='KA'></Dist>	
+		<Dist id='Kinnaur' pop='' popyear='' abbr='KI'></Dist>	
+		<Dist id='Kulu' pop='' popyear='' abbr='KU'></Dist>	
+		<Dist id='Lahaul_and_Spiti' pop='' popyear='' abbr='LS'></Dist>	
+		<Dist id='Mandi' pop='' popyear='' abbr='MA'></Dist>	
+		<Dist id='Shimla' pop='' popyear='' abbr='SH'></Dist>	
+		<Dist id='Sirmaur' pop='' popyear='' abbr='SI'></Dist>	
+		<Dist id='Solan' pop='' popyear='' abbr='SO'></Dist>	
+		<Dist id='Una' pop='' popyear='' abbr='UNA'></Dist>	
+	</State>
+	<State id='Jammu_and_Kashmir' pop='' popyear='' abbr='JK' capital='Srinagar'>
+		<Dist id='Anantnag' pop='' popyear='' abbr='AN'></Dist>
+		<Dist id='Badgam' pop='' popyear='' abbr='BD'></Dist>
+		<Dist id='Bandipore' pop='' popyear='' abbr='BPR'></Dist>
+		<Dist id='Baramula' pop='' popyear='' abbr='BR'></Dist>
+		<Dist id='Doda' pop='' popyear='' abbr='DO'></Dist>
+		<Dist id='Jammu' pop='' popyear='' abbr='JA'></Dist>
+		<Dist id='Kargil' pop='' popyear='' abbr='KR'></Dist>
+		<Dist id='Kathua' pop='' popyear='' abbr='KT'></Dist>
+		<Dist id='Kupwara' pop='' popyear='' abbr='KU'></Dist>
+		<Dist id='Leh' pop='' popyear='' abbr='LE'></Dist>
+		<Dist id='Poonch' pop='' popyear='' abbr='PO'></Dist>
+		<Dist id='Pulwama' pop='' popyear='' abbr='PU'></Dist>
+		<Dist id='Rajauri' pop='' popyear='' abbr='RA'></Dist>
+		<Dist id='Srinagar' pop='' popyear='' abbr='SR'></Dist>
+		<Dist id='Samba' pop='' popyear='' abbr='SA'></Dist>
+		<Dist id='Udhampur' pop='' popyear='' abbr='UD'></Dist>
+	</State>
+	<State id='Jharkhand' pop='' popyear='' abbr='JH' capital='Ranchi'>
+		<Dist id='Bokaro' pop='' popyear='' abbr='BO'></Dist>
+		<Dist id='Chatra' pop='' popyear='' abbr='CH'></Dist>
+		<Dist id='Deoghar' pop='' popyear='' abbr='DE'></Dist>
+		<Dist id='Dhanbad' pop='' popyear='' abbr='DH'></Dist>
+		<Dist id='Dumka' pop='' popyear='' abbr='DU'></Dist>
+		<Dist id='East_Singhbhum' pop='' popyear='ES' abbr=''></Dist>
+		<Dist id='Garhwa' pop='' popyear='' abbr='GA'></Dist>
+		<Dist id='Giridih' pop='' popyear='' abbr='GI'></Dist>
+		<Dist id='Godda' pop='' popyear='' abbr='GO'></Dist>
+		<Dist id='Gumla' pop='' popyear='' abbr='GU'></Dist>
+		<Dist id='Hazaribag' pop='' popyear='' abbr='HA'></Dist>
+		<Dist id='Koderma' pop='' popyear='' abbr='KO'></Dist>
+		<Dist id='Lohardaga' pop='' popyear='' abbr='LO'></Dist>
+		<Dist id='Pakur' pop='' popyear='' abbr='PK'></Dist>
+		<Dist id='Palamu' pop='' popyear='' abbr='PL'></Dist>
+		<Dist id='Ranchi' pop='' popyear='' abbr='RA'></Dist>
+		<Dist id='Sahibganj' pop='' popyear='' abbr='SA'></Dist>
+		<Dist id='Seraikela_Kharsawan' pop='' popyear='' abbr='SK'></Dist>
+		<Dist id='West_Singhbhum' pop='' popyear='' abbr='WS'></Dist>
+		<Dist id='Ramgarh' pop='' popyear='' abbr='RM'></Dist>
+	</State>
+	<State id='Karnataka' pop='' popyear='' abbr='KA' capital='Bangalore'>
+	    <Dist id='Bidar' pop='' popyear='' abbr='BD'></Dist>
+	    <Dist id='Belgaum' pop='' popyear='' abbr='BG'></Dist>
+	    <Dist id='Bijapur' pop='' popyear='' abbr='BJ'></Dist>
+	    <Dist id='Bagalkot' pop='' popyear='' abbr='BK'></Dist>
+	    <Dist id='Bellary' pop='' popyear='' abbr='BL'></Dist>
+	    <Dist id='Bangalore_Rural ' pop='' popyear='' abbr='BR'></Dist>
+	    <Dist id='Bangalore_Urban ' pop='' popyear='' abbr='BN'></Dist>
+	    <Dist id='Chamarajnagar' pop='' popyear='' abbr='CJ'></Dist>
+	    <Dist id='Chikmagalur' pop='' popyear='' abbr='CK'></Dist>
+	    <Dist id='Chitradurga' pop='' popyear='' abbr='CT'></Dist>
+	    <Dist id='Davanagere' pop='' popyear='' abbr='DA'></Dist>
+	    <Dist id='Dharwad' pop='' popyear='' abbr='DH'></Dist>
+	    <Dist id='Dakshina_Kannada' pop='' popyear='' abbr='DK'></Dist>
+	    <Dist id='Gadag' pop='' popyear='' abbr='GA'></Dist>
+	    <Dist id='Gulbarga' pop='' popyear='' abbr='GU'></Dist>
+	    <Dist id='Hassan' pop='' popyear='' abbr='HS'></Dist>
+	    <Dist id='Haveri ' pop='' popyear='' abbr='HV'></Dist>
+	    <Dist id='Kodagu' pop='' popyear='' abbr='KD'></Dist>
+	    <Dist id='Kolar' pop='' popyear='' abbr='KL'></Dist>
+	    <Dist id='Koppal' pop='' popyear='' abbr='KP'></Dist>
+	    <Dist id='Mandya' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Mysore' pop='' popyear='' abbr='MY'></Dist>
+		<Dist id='Raichur' pop='' popyear='' abbr='RA'></Dist>
+		<Dist id='Shimoga' pop='' popyear='' abbr='SH'></Dist>
+		<Dist id='Tumkur' pop='' popyear='' abbr='TU'></Dist>
+		<Dist id='Udupi' pop='' popyear='' abbr='UD'></Dist>
+		<Dist id='Uttara_annada' pop='' popyear='' abbr='UK'></Dist>
+		<Dist id='Ramanagara' pop='' popyear='' abbr='RM'></Dist>
+		<Dist id='Chikballapur' pop='' popyear='' abbr='CK'></Dist>
+		<Dist id='Yadgir' pop='' popyear='' abbr='YG'></Dist>
+	</State>
+	<State id='Kerala' pop='' popyear='' abbr='KL' capital='Thiruvananthapuram'>
+		<Dist id='Alappuzha' pop='' popyear='' abbr='AL'></Dist>
+		<Dist id='Ernakulam' pop='' popyear='' abbr='ER'></Dist>
+		<Dist id='Idukki' pop='' popyear='' abbr='ID'></Dist>
+		<Dist id='Kollam' pop='' popyear='' abbr='KL'></Dist>
+		<Dist id='Kannur' pop='' popyear='' abbr='KN'></Dist>
+		<Dist id='Kasaragod' pop='' popyear='' abbr='KS'></Dist>
+		<Dist id='Kottayam' pop='' popyear='' abbr='KT'></Dist>
+		<Dist id='Kozhikode' pop='' popyear='' abbr='KZ'></Dist>
+		<Dist id='Malappuram' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Palakkad' pop='' popyear='' abbr='PL'></Dist>
+		<Dist id='Pathanamthitta' pop='' popyear='' abbr='PT'></Dist>
+		<Dist id='Thrissur' pop='' popyear='' abbr='TS'></Dist>
+		<Dist id='Thiruvananthapuram' pop='' popyear='TV' abbr=''></Dist>
+		<Dist id='Wayanad' pop='' popyear='' abbr='WA'></Dist>
+	</State>
+	<State id='Lakshadweep' pop='' popyear='' abbr='LD' capital='Kavaratti'>
+		<Dist id='Lakshadweep' pop='' popyear='' abbr='LD'></Dist>
+	</State>
+	<State id='Madhya_Pradesh' pop='' popyear='' abbr='MP' capital='Bhopal'>
+		<Dist id='Alirajpur' pop='' popyear='' abbr='AL'></Dist>
+		<Dist id='Anuppur' pop='' popyear='' abbr='AP'></Dist>
+		<Dist id='Ashok_Nagar' pop='' popyear='' abbr='AS'></Dist>
+		<Dist id='Balaghat' pop='' popyear='' abbr='BL'></Dist>
+		<Dist id='Barwani' pop='' popyear='' abbr='BR'></Dist>
+		<Dist id='Betul' pop='' popyear='' abbr='BE'></Dist>
+		<Dist id='Bhind' pop='' popyear='' abbr='BD'></Dist>
+		<Dist id='Bhopal' pop='' popyear='' abbr='BP'></Dist>
+		<Dist id='Burhanpur' pop='' popyear='' abbr='BU'></Dist>
+		<Dist id='Chhatarpur' pop='' popyear='' abbr='CT'></Dist>
+		<Dist id='Chhindwara' pop='' popyear='' abbr='CN'></Dist>
+		<Dist id='Damoh' pop='' popyear='' abbr='DM'></Dist>
+		<Dist id='Datia' pop='' popyear='' abbr='DT'></Dist>
+		<Dist id='Dewas' pop='' popyear='' abbr='DE'></Dist>
+		<Dist id='Dhar' pop='' popyear='' abbr='DH'></Dist>
+		<Dist id='Dindori' pop='' popyear='DI' abbr=''></Dist>
+		<Dist id='Guna' pop='' popyear='' abbr='GU'></Dist>
+		<Dist id='Gwalior' pop='' popyear='' abbr='GW'></Dist>
+		<Dist id='Harda' pop='' popyear='' abbr='HA'></Dist>
+		<Dist id='Hoshangabad' pop='' popyear='' abbr='HO'></Dist>
+		<Dist id='Indore' pop='' popyear='' abbr='IN'></Dist>
+		<Dist id='Jabalpur' pop='' popyear='' abbr='JA'></Dist>
+		<Dist id='Jhabua' pop='' popyear='' abbr='JH'></Dist>
+		<Dist id='Katni' pop='' popyear='' abbr='KA'></Dist>
+		<Dist id='Khandwa' pop='' popyear='' abbr='EN'></Dist>
+		<Dist id='Khargone' pop='' popyear='' abbr='WN'></Dist>
+		<Dist id='Mandla' pop='' popyear='' abbr='ML'></Dist>
+		<Dist id='Mandsaur' pop='' popyear='' abbr='MS'></Dist>
+		<Dist id='Morena' pop='' popyear='' abbr='MO'></Dist>
+		<Dist id='Narsinghpur' pop='' popyear='' abbr='NA'></Dist>
+		<Dist id='Neemuch' pop='' popyear='' abbr='NE'></Dist>
+		<Dist id='Panna' pop='' popyear='' abbr='PA'></Dist>
+		<Dist id='Rewa' pop='' popyear='' abbr='RE'></Dist>
+		<Dist id='Rajgarh' pop='' popyear='' abbr='RG'></Dist>
+		<Dist id='Ratlam' pop='' popyear='' abbr='RL'></Dist>
+		<Dist id='Raisen' pop='' popyear='' abbr='RS'></Dist>
+		<Dist id='Sagar' pop='' popyear='' abbr='SG'></Dist>
+		<Dist id='Satna' pop='' popyear='' abbr='ST'></Dist>
+		<Dist id='Sehore' pop='' popyear='' abbr='SR'></Dist>
+		<Dist id='Seoni' pop='' popyear='' abbr='SO'></Dist>
+		<Dist id='Shahdol' pop='' popyear='' abbr='SH'></Dist>
+		<Dist id='Shajapur' pop='' popyear='' abbr='SJ'></Dist>
+		<Dist id='Sheopur' pop='' popyear='' abbr='SP'></Dist>
+		<Dist id='Shivpuri' pop='' popyear='' abbr='SV'></Dist>
+		<Dist id='Sidhi' pop='' popyear='' abbr='SI'></Dist>
+		<Dist id='Singrauli' pop='' popyear='' abbr='SN'></Dist>
+		<Dist id='Tikamgarh' pop='' popyear='' abbr='TI'></Dist>
+		<Dist id='Ujjain' pop='' popyear='' abbr='UJ'></Dist>
+		<Dist id='Umaria' pop='' popyear='' abbr='UM'></Dist>
+		<Dist id='Vidisha' pop='' popyear='' abbr='VI'></Dist>
+	</State>
+	<State id='Maharashtra' pop='' popyear='' abbr='MH' capital='Mumbai'>
+		<Dist id='Ahmednagar' pop='4088000' popyear='2001' abbr='AH'>
+			<Tal id='Akole' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jamkhed' pop='27691' popyear='2001' abbr='JK'></Tal>
+			<Tal id='Karjat' pop='' popyear='' abbr='KJ'></Tal>
+			<Tal id='Kopargaon' pop='59996' popyear='2001' abbr='KO'></Tal>
+			<Tal id='Nevasa' pop='326611' popyear='2001' abbr='NV'></Tal>
+			<Tal id='Nagar' pop='' popyear='' abbr='NG'></Tal>
+			<Tal id='Parner' pop='' popyear=''  abbr='PR'>
+				<Vill id='Wadzire' pop='' popyear='' abbr='WZ'></Vill>
+				<Vill id='Palashi' pop='' popyear='' abbr='PL'></Vill>
+				<Vill id='LoniMawala' pop='' popyear='' abbr='LM'></Vill>
+			</Tal>
+			<Tal id='Pathardi' pop='22827' popyear='2001' abbr='PA'></Tal>
+			<Tal id='Rahata' pop='19024' popyear='2001' abbr='RT'></Tal>
+			<Tal id='Rahuri' pop='34465' popyear='2001' abbr='RH'></Tal>
+			<Tal id='Sangamner' pop='61958' popyear='2001' abbr='SG'></Tal>
+			<Tal id='Shrirampur' pop='	81270' popyear='2001' abbr='SR'></Tal>
+			<Tal id='Shevgaon' pop='' popyear=''  abbr='SV'></Tal>
+			<Tal id='Shrigonda' pop='26331' popyear='2001'  abbr='SG'></Tal>
+		</Dist>
+		<Dist id='Akola' pop='1630239' popyear='2001'  abbr='AK'>
+			<Tal id='Akot' pop='80796' popyear='2001' abbr='AT'></Tal>
+			<Tal id='Telhara' pop='18906' popyear='2001'  abbr='TH'></Tal>
+			<Tal id='Balapur' pop='39493' popyear='2001' abbr='BL'></Tal>
+			<Tal id='Patur' pop='20531' popyear='2001' abbr='PT'></Tal>
+			<Tal id='Barshitakli' pop='' popyear='' abbr='BT'></Tal>
+			<Tal id='Murtajapur' pop='38551' popyear='2001' abbr='MT'></Tal>
+		</Dist>
+		<Dist id='Amravati' pop='2606063 ' popyear='2001' abbr='AM'>
+			<Tal id='Bhatukali' pop='' popyear='' abbr='BH'></Tal>
+			<Tal id='Nandgaon Khandeshwar' pop='' popyear='' abbr='NK'></Tal>
+			<Tal id='Dharni' pop='' popyear='' abbr='DR'></Tal>
+			<Tal id='Chikhaldara' pop='' popyear='' abbr='CH'></Tal>
+			<Tal id='Achalpur' pop='' popyear='' abbr='AL'></Tal>
+			<Tal id='Chandurbazar' pop='' popyear='' abbr='CB'></Tal>
+			<Tal id='Morshi' pop='' popyear='' abbr='MO'></Tal>
+			<Tal id='Warud' pop='' popyear='' abbr='WD'></Tal>
+			<Tal id='Daryapur' pop='' popyear='' abbr='DY'></Tal>
+			<Tal id='Anjangaon' pop='' popyear='' abbr='AJ'></Tal>
+			<Tal id='Surji' pop='' popyear='' abbr='SJ'></Tal>
+			<Tal id='Chandur' pop='' popyear='' abbr='CD'></Tal>
+			<Tal id='Dhamangaon' pop='' popyear='' abbr='DM'></Tal>
+			<Tal id='Tiosa' pop='' popyear='' abbr='TI'></Tal>
+		</Dist>
+		<Dist id='Aurangabad' pop='' popyear='' abbr='AU'>
+			<Tal id='Aurangabad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Paithan' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Vaijapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Gangapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khuldabad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Phulambri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kannad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sillod' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Soegaon' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Beed' pop='' popyear='' abbr='BD'>
+			<Tal id='Beed' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ashti' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Patoda' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shirur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Georai' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ambajogai' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Wadwani' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kaij' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dharur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Parli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Majalgaon' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Bhandara' pop='' popyear='' abbr='BH'>
+			<Tal id='Bhandara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Tumsar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pauni' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mohadi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sakoli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Lakhni' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Lakhandur' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Buldhana' pop='' popyear='' abbr='BU'>
+			<Tal id='Buldhana' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chikhali' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Deulgaon_Raja' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khamgaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shegaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Malkapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Motala' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nandura' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mehkar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Lonar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sindkhed_Raja' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jalgaon_Jamod' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sangrampur' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Chandrapur' pop='' popyear='' abbr='CH'>
+			<Tal id='Chandrapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhadravati' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Warora' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chimur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nagbhid' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bramhapuri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sindhewahi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mul' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Saoli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Gondpipri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Rajura' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Korpana' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pomburna' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ballarpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Gadchandur' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Dhule' pop='' popyear='' abbr='DH'>
+			<Tal id='Dhule' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shirpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sindkheda' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sakri' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Gadchiroli' pop='' popyear='' abbr='GD'>
+			<Tal id='Gadchiroli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dhanora' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chamorshi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mulchera' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Aheri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sironcha' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Etapalli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhamragad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Wadsa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Armori' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kurkheda' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Korchi' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Gondia' pop='' popyear='' abbr='GO'>
+			<Tal id='Gondia' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Goregaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Tirora' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Arjuni_Moregaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Deori' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Amgaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Salekasa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sadak_Arjuni' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Hingoli' pop='' popyear='' abbr='HI'>
+			<Tal id='Hingoli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kalamnuri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sengaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Aundha' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Basmath' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Jalgaon' pop='' popyear='' abbr='JG'>
+			<Tal id='Jalgaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jamner' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Erandol' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dharangaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhusawal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bodwad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Yawal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Raver' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Muktainagar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Amalner' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chopda' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Parola' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pachora' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chalisgaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhadgaon' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Jalna' pop='' popyear='' abbr='JN'>
+			<Tal id='Jalna' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ambad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhokardan' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Badnapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ghansavangi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Partur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mantha' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jafrabad' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Kolhapur' pop='' popyear='' abbr='KO'>
+			<Tal id='Kagal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Karveer' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhudargad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Panhala' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Gadhinglaj' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shirol' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Hatkanangale' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ajara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chandgad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Gaganbawada' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Radhanagari' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shahuwadi' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Latur' pop='' popyear='' abbr='LA'>
+			<Tal id='Latur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Udgir' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ahmedpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ausa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nilanga' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Renapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chakur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Deoni' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shirur_Anantpal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jalkot' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Mumbai_City' pop='' popyear='' abbr='MC'></Dist>
+		<Dist id='Mumbai_Suburban' pop='' popyear='' abbr='MU'>
+			<Tal id='Kurla' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Andheri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Borivali' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Nagpur' pop='' popyear='' abbr='NG'>
+			<Tal id='Ramtek' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Umred' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kalameshwar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Katol' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kamthi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kuhi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Narkhed' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nagpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nagpur_(Rural)' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Parseoni' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhiwapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mouda' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Savner' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Hingna' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Nanded' pop='' popyear='' abbr='ND'>
+			<Tal id='Ardhapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhokar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Biloli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Degloor' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kinwat' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Loha' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mahur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mudkhed' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dharmabad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mukhed' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Hadgaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nanded' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Himayatnagar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Naigaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kandhar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Umri' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Nandurbar' pop='' popyear='' abbr='NB'>
+			<Tal id='Shahada' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nandurbar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Navapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Taloda' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Akkalkua' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Akrani' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Nashik' pop='' popyear='' abbr='NS'>
+			<Tal id='Nashik' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sinnar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Igatpuri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Trimbak' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Niphad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Yeola' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Peth' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dindori' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chandwad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nandgaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Surgana' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kalwan' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Deola' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Baglan' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Malegaon' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Osmanabad' pop='' popyear='' abbr='OS'>
+			<Tal id='Osmanabad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Tuljapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Omerga' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Lohara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kallamb' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhoom' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Paranda' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Washi' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Parbhani' pop='' popyear='PA'>
+			<Tal id='Parbhani' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Gangakhed' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sonpeth' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pathri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Manwath' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Palam' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sailu' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jintur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Purna' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Pune' pop='' popyear='PU'>
+			<Tal id='Pune_City' pop='' popyear='' abbr=''>
+				<Tal id='Viman_Nagar' pop='' popyear='' abbr=''></Tal>
+			</Tal>
+			<Tal id='Bhor' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Daund' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Baramati' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Indapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Velhe' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Purandar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shirur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ambegaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khed' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Junnar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Maval' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mulshi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Haveli' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Raigad' pop='' popyear='RG'>
+			<Tal id='Alibag' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pen' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Murud' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Panvel' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Uran' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Karjat' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khalapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mangaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Roha' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sudhagadh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Tala' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mahad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mhasala' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shrivardhan' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Poladpu' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Ratnagiri' pop='' popyear='RT'>
+			<Tal id='Mandangad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dapoli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khed' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chiplun' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Guhagar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sangameshwar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ratnagiri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Lanja' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Rajapur' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Sangli' pop='' popyear='SN'>
+			<Tal id='Miraj' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Tasgaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kavathe_Mahankal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jath' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khanapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Palus' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Atpadi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Walwa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kadegaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shirala' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Satara' pop='' popyear='ST'>
+			<Tal id='Satara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Karad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Wai' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mahabaleshwar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Phaltan' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Man' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khatav' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Koregaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Patan' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jaoli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khandala' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Sindhudurg' pop='' popyear='SI'>
+			<Tal id='Dodamarg' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sawantwadi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Vengurla' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kudal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Malvan' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kankavli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Devgad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Vaibhavwadi' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Solapur' pop='' popyear='SO'>
+			<Tal id='Akkalkot' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Barshi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Karmala' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Madha' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mangalwedha' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Malshiras' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mohol' pop='' popyear='' abbr=''></Tal>
+			<Tal id='North_Solapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pandharpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sangola' pop='' popyear='' abbr=''></Tal>
+			<Tal id='South_Solapur' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Thane' pop='' popyear='TH'>
+			<Tal id='Thane' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kalyan' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ambernath' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ulhasnagar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Murbad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Vasai' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhiwandi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shahapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Palghar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Vada' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mokhada' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dahanu' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Talasari' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jawhar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Vikramgad' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Wardha' pop='1230640' popyear='WR'>
+			<Tal id='Wardha' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Deoli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Seloo' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Arvi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ashti' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Karanja' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Hnganghat' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Samudrapur' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Washim' pop='1020216' popyear='WS'>
+			<Tal id='Malegaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mangrulpir' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Karanja' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Manora' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Washim' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Risod' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Yavatmal' pop='2077144' popyear='YA'>
+			<Tal id='Arni' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Umarkhed' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kalamb' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pandharkawada' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ghatanji' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Zari_Jamani' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Darwha' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Digras' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ner' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pusad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Babhulgaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mahagaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Maregaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Yavatmal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ralegaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Wani' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+	</State>
+	<State id='Manipur' pop='' popyear='' abbr='MN' capital='Imphal'>
+		<Dist id='Bishnupur' pop='' popyear='' abbr='BI'></Dist>
+		<Dist id='Churachandpur' pop='' popyear='' abbr='CC'></Dist>
+		<Dist id='Chandel' pop='' popyear='' abbr='CD'></Dist>
+		<Dist id='Imphal_East' pop='' popyear='' abbr='EI'></Dist>
+		<Dist id='Senapati' pop='' popyear='' abbr='SE'></Dist>
+		<Dist id='Tamenglong' pop='' popyear='' abbr='TA'></Dist>
+		<Dist id='Thoubal' pop='' popyear='' abbr='TH'></Dist>
+		<Dist id='Ukhrul' pop='' popyear='' abbr='UK'></Dist>
+		<Dist id='Imphal_West' pop='' popyear='' abbr='WI'></Dist>
+	</State>
+	<State id='Meghalaya' pop='' popyear='' abbr='ML' capital='Shillong'>
+		<Dist id='East_Garo_Hills' pop='' popyear='' abbr='EG'></Dist>
+		<Dist id='East_Khasi_Hills' pop='' popyear='' abbr='EK'></Dist>
+		<Dist id='Jaintia_Hills' pop='' popyear='' abbr='JH'></Dist>
+		<Dist id='Ri_Bhoi_South' pop='' popyear='' abbr='RB'></Dist>
+		<Dist id='Garo_Hills_south' pop='' popyear='' abbr='SG'></Dist>
+		<Dist id='Garo_Hills_West' pop='' popyear='' abbr='WG'></Dist>
+		<Dist id='Khasi_Hills' pop='' popyear='' abbr='WK'></Dist>
+	</State>
+	<State id='Mizoram' pop='' popyear='' abbr='MZ' capital='Aizawl'>
+		<Dist id='Aizawl' pop='' popyear='' abbr='AI'></Dist>
+		<Dist id='Champhai' pop='' popyear='' abbr='CH'></Dist>
+		<Dist id='Kolasib' pop='' popyear='' abbr='KO'></Dist>
+		<Dist id='Lawngtlai' pop='' popyear='' abbr='LA'></Dist>
+		<Dist id='Lunglei' pop='' popyear='' abbr='LU'></Dist>
+		<Dist id='Mamit' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Saiha' pop='' popyear='' abbr='SA'></Dist>
+		<Dist id='Serchhip' pop='' popyear='' abbr='SE'></Dist>		
+	</State>
+	<State id='Nagaland' pop='' popyear='' abbr='NL' capital='Kohima'>
+		<Dist id='Dimapur' pop='' popyear='' abbr='DI'></Dist>
+		<Dist id='Kohima' pop='' popyear='' abbr='KO'></Dist>
+		<Dist id='Mokokchung' pop='' popyear='' abbr='MK'></Dist>
+		<Dist id='Mon' pop='' popyear='' abbr='MN'></Dist>
+		<Dist id='Phek' pop='' popyear='' abbr='PH'></Dist>
+		<Dist id='Tuensang' pop='' popyear='' abbr='TU'></Dist>
+		<Dist id='Wokha' pop='' popyear='' abbr='WO'></Dist>
+		<Dist id='Zunheboto' pop='' popyear='' abbr='ZU'></Dist>
+	</State>
+	<State id='Orissa' pop='' popyear='' abbr='OR' capital='Bhubaneswar'>
+		<Dist id='Angul' pop='' popyear='' abbr='AN'></Dist>
+		<Dist id='Boudh' pop='' popyear='' abbr='BD'></Dist>
+		<Dist id='Bhadrak' pop='' popyear='' abbr='BH'></Dist>
+		<Dist id='Bolangir ' pop='' popyear='' abbr='BL'></Dist>
+		<Dist id='Bargarh' pop='' popyear='' abbr='BR'></Dist>
+		<Dist id='Baleswar ' pop='' popyear='' abbr='BW'></Dist>
+		<Dist id='Cuttack' pop='' popyear='' abbr='CU'></Dist>
+		<Dist id='Debagarh ' pop='' popyear='' abbr='DE'></Dist>
+		<Dist id='Dhenkanal' pop='' popyear='' abbr='DH'></Dist>
+		<Dist id='Ganjam' pop='' popyear='' abbr='GN'></Dist>
+		<Dist id='Gajapati' pop='' popyear='' abbr='GP'></Dist>
+		<Dist id='Jharsuguda' pop='' popyear='' abbr='JH'></Dist>
+		<Dist id='Jajapur ' pop='' popyear='' abbr='JP'></Dist>
+		<Dist id='Jagatsinghpur' pop='' popyear='' abbr='JS'></Dist>
+		<Dist id='Khordha' pop='' popyear='' abbr='KH'></Dist>
+		<Dist id='Kendujhar' pop='' popyear='' abbr='KJ'></Dist>
+		<Dist id='Kalahandi' pop='' popyear='' abbr='KL'></Dist>
+		<Dist id='Kandhamal' pop='' popyear='' abbr='KN'></Dist>
+		<Dist id='Koraput' pop='' popyear='' abbr='KO'></Dist>
+		<Dist id='Kendrapara' pop='' popyear='' abbr='KP'></Dist>
+		<Dist id='Malkangiri' pop='' popyear='' abbr='ML'></Dist>
+		<Dist id='Mayurbhanj' pop='' popyear='' abbr='MY'></Dist>
+		<Dist id='Nabarangpur' pop='' popyear='' abbr='NB'></Dist>
+		<Dist id='Nuapada' pop='' popyear='' abbr='NU'></Dist>
+		<Dist id='Nayagarh' pop='' popyear='' abbr='NY'></Dist>
+		<Dist id='Puri' pop='' popyear='' abbr='PU'></Dist>
+		<Dist id='Rayagada' pop='' popyear='' abbr='RA'></Dist>
+		<Dist id='Sambalpur' pop='' popyear='' abbr='SA'></Dist>
+		<Dist id='Subarnapur' pop='' popyear='' abbr='SO'></Dist>
+		<Dist id='Sundargarh' pop='' popyear='' abbr='SU'></Dist>
+	</State>
+	<State id='Pondicherry' pop='' popyear='' abbr='PY' capital=''>
+		<Dist id='Karaikal' pop='' popyear='' abbr='KA'></Dist>
+		<Dist id='Mahe' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Puducherry' pop='' popyear='' abbr='PO'></Dist>
+		<Dist id='Yanam' pop='' popyear='' abbr='YA'></Dist>
+	</State>
+	<State id='Punjab' pop='' popyear='' abbr='PB' capital='Chandigarh'>
+		<Dist id='Amritsar' pop='' popyear='' abbr='AM'></Dist>
+		<Dist id='Bathinda' pop='' popyear='' abbr='BA'></Dist>
+		<Dist id='Firozpur' pop='' popyear='' abbr='FI'></Dist>
+		<Dist id='Faridkot' pop='' popyear='' abbr='FR'></Dist>
+		<Dist id='Fatehgarh_Sahib' pop='' popyear='' abbr='FT'></Dist>
+		<Dist id='Gurdaspur' pop='' popyear='' abbr='GU'></Dist>
+		<Dist id='Hoshiarpur' pop='' popyear='' abbr='HO'></Dist>
+		<Dist id='Jalandhar' pop='' popyear='' abbr='JA'></Dist>
+		<Dist id='Kapurthala' pop='' popyear='' abbr='KA'></Dist>
+		<Dist id='Ludhiana' pop='' popyear='' abbr='LU'></Dist>
+		<Dist id='Mansa' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Moga' pop='' popyear='' abbr='MO'></Dist>
+		<Dist id='Mukatsar' pop='' popyear='' abbr='MU'></Dist>
+		<Dist id='Shahid_Bhagat_Singh_Nagar' pop='' popyear='' abbr='SBN'></Dist>
+		<Dist id='Patiala' pop='' popyear='' abbr='PA'></Dist>
+		<Dist id='Rupnagar' pop='' popyear='' abbr='RU'></Dist>
+		<Dist id='Sangrur' pop='' popyear='' abbr='SA'></Dist>
+	</State>
+	<State id='Rajasthan' pop='' popyear='' abbr='RJ' capital='Jaipur'>
+	    <Dist id='Ajmer' pop='' popyear='' abbr='AJ'>
+			<Tal id='Ajmer' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Beawar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nasirabad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kekri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kishangarh' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Alwar' pop='' popyear='' abbr='AL'>
+			<Tal id='Alwar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Thanagazi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Rajgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Laxmangarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kathumar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ramgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Tijara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kotkasim' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kishangarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bansur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Behror' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Bikaner' pop='' popyear='' abbr='BI'>
+			<Tal id='Bikaner' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kolayat' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Barmer' pop='' popyear='' abbr='BM'>
+			<Tal id='Barmer' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Baytoo' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chohtan' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Gudha_Malani' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pachpadra' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ramsar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sheo' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Siwana' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Banswara' pop='' popyear='' abbr='BN'>
+			<Tal id='Talwara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Garhi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ghatol' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Peepal_Khunt' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bagidora' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Anandpuri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kushalgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sajjangarh' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Bharatpur' pop='' popyear='' abbr='BP'>
+			
+		</Dist>
+		<Dist id='Baran' pop='' popyear='' abbr='BR'>
+			<Tal id='Anta' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Atru' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Baran' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chhabra' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chhipa_Barod' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kishanganj' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mangrol' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shahabad' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Bundi' pop='' popyear='' abbr='BU'>
+			
+		</Dist>
+		<Dist id='Bhilwara' pop='' popyear='' abbr='BW'>
+			<Tal id='Bhilwara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Banera' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mandal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mandalgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Beejoliya' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kotri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shahpura' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jahazpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sahada' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Raipur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Asind' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Hurda' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Churu' pop='' popyear='' abbr='CR'>
+			<Tal id='Churu' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ratangarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Taranagar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Rajgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sardarshahar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sujangarh' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Chittorgarh' pop='' popyear='' abbr='CT'>
+			
+		</Dist>
+		<Dist id='Dausa' pop='' popyear='' abbr='DA'>
+			<Tal id='Baswa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dausa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Lalsot' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mahwa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sikrai' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Dholpur' pop='' popyear='' abbr='DH'>
+			<Tal id='Dholpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Badi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Rajakhera' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Basedi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Saipau' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Dungapur' pop='' popyear='' abbr='DU'>
+			
+		</Dist>
+		<Dist id='Sri_Ganganagar' pop='' popyear='' abbr='GA'>
+			<Tal id='Sri_Ganganagar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sri_Karanpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sadulshahar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Padampur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Raisinghnagar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Suratgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Anoopgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shri_Vijaynagar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Gharsana' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Hanumangarh' pop='' popyear='' abbr='HA'>
+			<Tal id='Hanumangarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sangaria' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pilibanga' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Rawatsar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nohar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhadra' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Tibbi' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Jhunjhunu' pop='' popyear='' abbr='JJ'>
+			<Tal id='Maharana' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sotwara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khetri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chirawa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kakoda' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ked' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Badangarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Barau' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Rasulpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mahapalwas' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jakhal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Udaipurwati' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ajari' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chhau' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Badagaon' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bajawa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Taen' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Buhana' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Lalpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mukandgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khariya' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Tetara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dhattarwalon_ka_bass' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kaseru' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pilani' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dulania' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Morwa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pipali' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Thali' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Singhana' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Balonda' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Jalore' pop='' popyear='' abbr='JL'>
+			<Tal id='Jalore' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ahore' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhinmal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Raniwara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sanchore' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sayala' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bagoda' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chitalwana' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Jodhpur' pop='' popyear='' abbr='JO'>
+			<Tal id='Jodhpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shergarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Phalodi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Piparcity' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Osian' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Luni' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bilara' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Jaipur' pop='' popyear='' abbr='JP'>
+			<Tal id='Jaipur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Amber' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bassi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chaksu' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chomu' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mojmabad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jamwa_Ramgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Phagi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Phulera' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kotputli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sanganer' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shahpura' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Viratnagar' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Jaisalmer' pop='' popyear='' abbr='JS'>
+			<Tal id='Jaisalmer' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pokaran' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Fatehgarh' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Jhalawar' pop='' popyear='' abbr='JW'>
+			<Tal id='Jhalawar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Aklera' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhawani_Mandi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pirawa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khanpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Manohar_Thana' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Karauli' pop='' popyear='' abbr='KA'>
+			
+		</Dist>
+		<Dist id='Kota' pop='' popyear='' abbr='KO'>
+			
+		</Dist>
+		<Dist id='Nagaur' pop='' popyear='' abbr='NA'>
+			<Tal id='Nagaur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Khinvsar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jayal' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Merta' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Degana' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Didwana' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ladnun' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Parbatsar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Makrana' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nawa' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Pali' pop='' popyear='' abbr='PA'>
+			<Tal id='Sojat' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Marwar_Junction' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jaitaran' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Raipur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sumerpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bali' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pali' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Rohat' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Desuri' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Pratapgarh' pop='' popyear='' abbr='PG'>
+			<Tal id='Pratapgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Chhotee_Sadri' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Dhariyawad' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Arnod' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Peepalkhoont' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Rajsamand' pop='' popyear='' abbr='RA'>
+			<Tal id='Amet' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bhim' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Deogarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kumbhalgarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Nathdwara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Railmagra' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Rajsamand' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Sikar' pop='' popyear='' abbr='SK'>
+			<Tal id='Sikar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Fatehpur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Laxmangarh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Shrimadhopur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Neem_ka_Thana' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Sawai_Madhopur' pop='' popyear='' abbr='SM'>
+			<Tal id='Khandar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bonli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Bamanwas' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Gangapur' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sawaimadhopur' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Sirohi' pop='' popyear='' abbr='SR'>
+			<Tal id='Sirohi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sheoganj' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pindwara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Abu_Road' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Reodar' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Tonk' pop='' popyear='' abbr='TO'>
+			<Tal id='Deoli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Malpura' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Niwai' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Todaraisingh' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Tonk' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Uniara' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Peeplu' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='Udaipur' pop='' popyear='' abbr='UD'>
+			<Tal id='Girwa' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kherwada' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mavli' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Vallabhnagar' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Kotda' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Jhadol' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Salumber' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+	</State>
+	<State id='Sikkim' pop='' popyear='' abbr='SK' capital='Gangtok'>
+		<Dist id='East_Sikkim' pop='' popyear='' abbr='ES'>
+			<Tal id='Gangtok' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Pakyong' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Rongli' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='North_Sikkim' pop='' popyear='' abbr='NS'>
+			<Tal id='Chungthang' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Mangan' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='South_Sikkim' pop='' popyear='' abbr='SS'>
+			<Tal id='Namchi' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Ravong' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+		<Dist id='West_Sikkim' pop='' popyear='' abbr='WS'>
+			<Tal id='Gyalshing' pop='' popyear='' abbr=''></Tal>
+			<Tal id='Sorreng' pop='' popyear='' abbr=''></Tal>
+		</Dist>
+	</State>
+	<State id='Tamil_Nadu' pop='' popyear='' abbr='TN' capital='Chennai'>
+		<Dist id='Ariyalur' pop='' popyear='' abbr='AY'></Dist>
+		<Dist id='Chennai' pop='' popyear='' abbr='CH'></Dist>
+		<Dist id='Coimbatore' pop='' popyear='' abbr='CO'></Dist>
+		<Dist id='Cuddalore' pop='' popyear='' abbr='CU'></Dist>
+		<Dist id='Dharmapuri' pop='' popyear='' abbr='DH'></Dist>
+		<Dist id='Dindigul' pop='' popyear='' abbr='DI'></Dist>
+		<Dist id='Erode' pop='' popyear='' abbr='ER'></Dist>
+		<Dist id='Kanchipuram' pop='' popyear='' abbr='KC'></Dist>
+		<Dist id='Kanyakumari' pop='' popyear='' abbr='KK'></Dist>
+		<Dist id='Karur' pop='' popyear='' abbr='KR'></Dist>
+		<Dist id='Madurai' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Nagapattinam' pop='' popyear='' abbr='NG'></Dist>
+		<Dist id='Nilgiris' pop='' popyear='' abbr='NI'></Dist>
+		<Dist id='Namakkal' pop='' popyear='' abbr='NM'></Dist>
+		<Dist id='Perambalur' pop='' popyear='' abbr='PE'></Dist>
+		<Dist id='Pudukkottai' pop='' popyear='' abbr='PU'></Dist>
+		<Dist id='Ramanathapuram' pop='' popyear='' abbr='RA'></Dist>
+		<Dist id='Salem' pop='' popyear='' abbr='SA'></Dist>
+		<Dist id='Sivaganga' pop='' popyear='' abbr='SI'></Dist>
+		<Dist id='Tiruppur' pop='' popyear='' abbr='TP'></Dist>
+		<Dist id='Tiruchirappalli' pop='' popyear='' abbr='TC'></Dist>
+		<Dist id='Theni' pop='' popyear='' abbr='TH'></Dist>
+		<Dist id='Tirunelveli' pop='' popyear='' abbr='TI'></Dist>
+		<Dist id='Thanjavur' pop='' popyear='' abbr='TJ'></Dist>
+		<Dist id='Thoothukudi' pop='' popyear='' abbr='TK'></Dist>
+		<Dist id='Thiruvallur' pop='' popyear='' abbr='TL'></Dist>
+		<Dist id='Thiruvarur' pop='' popyear='' abbr='TR'></Dist>
+		<Dist id='Tiruvannamalai' pop='' popyear='' abbr='TV'></Dist>	
+		<Dist id='Vellore' pop='' popyear='' abbr='VE'></Dist>	
+		<Dist id='Viluppuram' pop='' popyear='' abbr='VL'></Dist>	
+		<Dist id='Virudhunagar' pop='' popyear='' abbr='VR'></Dist>		
+	</State>
+	<State id='Tripura' pop='' popyear='' abbr='TR' capital='Agartala'>
+		<Dist id='Dhalai' pop='' popyear='' abbr='DH'></Dist>	
+		<Dist id='North_Tripura' pop='' popyear='' abbr='NT'></Dist>	
+		<Dist id='South_Tripura' pop='' popyear='' abbr='ST'></Dist>	
+		<Dist id='West_Tripura' pop='' popyear='' abbr='WT'></Dist>	
+	</State>
+	<State id='Uttar_Pradesh' pop='' popyear='' abbr='UP' capital='Lucknow'>
+		<Dist id='Agra' pop='' popyear='' abbr='AG'></Dist>	
+		<Dist id='Allahabad' pop='' popyear='' abbr='AH'></Dist>	
+		<Dist id='Aligarh' pop='' popyear='' abbr='AL'></Dist>	
+		<Dist id='Ambedkar_Nagar' pop='' popyear='' abbr='AN'></Dist>	
+		<Dist id='Auraiya' pop='' popyear='' abbr='AU'></Dist>	
+		<Dist id='Azamgarh' pop='' popyear='' abbr='AZ'></Dist>	
+		<Dist id='Barabanki' pop='' popyear='' abbr='BB'></Dist>	
+		<Dist id='Budaun' pop='' popyear='' abbr='BD'></Dist>	
+		<Dist id='Bagpat' pop='' popyear='' abbr='BG'></Dist>	
+		<Dist id='Bahraich' pop='' popyear='' abbr='BH'></Dist>	
+		<Dist id='Bijnor' pop='' popyear='' abbr='BI'></Dist>	
+		<Dist id='Ballia' pop='' popyear='' abbr='BL'></Dist>	
+		<Dist id='Banda' pop='' popyear='' abbr='BN'></Dist>	
+		<Dist id='Balrampur' pop='' popyear='' abbr='BP'></Dist>	
+		<Dist id='Bareilly' pop='' popyear='' abbr='BR'></Dist>	
+		<Dist id='Basti' pop='' popyear='' abbr='BS'></Dist>	
+		<Dist id='Bulandshahar' pop='' popyear='' abbr='BU'></Dist>	
+		<Dist id='Chandauli' pop='' popyear='' abbr='CD'></Dist>	
+		<Dist id='Chitrakoot' pop='' popyear='' abbr='CT'></Dist>	
+		<Dist id='Deoria' pop='' popyear='' abbr='DE'></Dist>	
+		<Dist id='Etah_Kanshi_Ram_Nagar' pop='' popyear='ET' abbr=''></Dist>	
+		<Dist id='Etawah' pop='' popyear='' abbr='EW'></Dist>	
+		<Dist id='Firozabad' pop='' popyear='' abbr='FI'></Dist>	
+		<Dist id='Farrukhabad' pop='' popyear='' abbr='FR'></Dist>	
+		<Dist id='Fatehpur' pop='' popyear='' abbr='FT'></Dist>	
+		<Dist id='Faizabad' pop='' popyear='' abbr='FZ'></Dist>	
+		<Dist id='Gautam_Buddha_Nagar' pop='' popyear='' abbr='GB'></Dist>	
+		<Dist id='Gonda' pop='' popyear='' abbr='GN'></Dist>	
+		<Dist id='Ghazipur' pop='' popyear='' abbr='GP'></Dist>	
+		<Dist id='Gorakhpur' pop='' popyear='' abbr='GR'></Dist>	
+		<Dist id='Ghaziabad' pop='' popyear='' abbr='GZ'></Dist>	
+		<Dist id='Hamirpur' pop='' popyear='' abbr='HM'></Dist>	
+		<Dist id='Hardoi' pop='' popyear='' abbr='HR'></Dist>	
+		<Dist id='Mahamaya_Nagar' pop='' popyear='' abbr='HT'></Dist>	
+		<Dist id='Jhansi' pop='' popyear='' abbr='JH'></Dist>	
+		<Dist id='Jalaun' pop='' popyear='' abbr='JL'></Dist>	
+		<Dist id='Jyotiba_Phule_Nagar' pop='' popyear='' abbr='JP'></Dist>	
+		<Dist id='Jaunpur' pop='' popyear='' abbr='JU'></Dist>	
+		<Dist id='Ramabai_Nagar' pop='' popyear='' abbr='KD'></Dist>	
+		<Dist id='Kannauj' pop='' popyear='' abbr='KJ'></Dist>	
+		<Dist id='Kanpur_Nagar' pop='' popyear='' abbr='KN'></Dist>	
+		<Dist id='Kaushambi' pop='' popyear='' abbr='KS'></Dist>	
+		<Dist id='Kushinagar' pop='' popyear='' abbr='KU'></Dist>	
+		<Dist id='Lalitpur' pop='' popyear='' abbr='LA'></Dist>	
+		<Dist id='Lakhimpur_Kheri' pop='' popyear='' abbr='LK'></Dist>	
+		<Dist id='Lucknow' pop='' popyear='' abbr='LU'></Dist>	
+		<Dist id='Mau' pop='' popyear='' abbr='MB'></Dist>	
+		<Dist id='Meerut' pop='' popyear='' abbr='ME'></Dist>	
+		<Dist id='Maharajganj' pop='' popyear='' abbr='MG'></Dist>	
+		<Dist id='Mahoba' pop='' popyear='' abbr='MH'></Dist>	
+		<Dist id='Mirzapur' pop='' popyear='' abbr='MI'></Dist>	
+		<Dist id='Moradabad' pop='' popyear='' abbr='MO'></Dist>	
+		<Dist id='Mainpuri' pop='' popyear='' abbr='MP'></Dist>	
+		<Dist id='Mathura' pop='' popyear='' abbr='MT'></Dist>	
+		<Dist id='Muzaffarnagar' pop='' popyear='' abbr='MU'></Dist>	
+		<Dist id='Pilibhit' pop='' popyear='' abbr='PI'></Dist>	
+		<Dist id='Pratapgarh' pop='' popyear='' abbr='PR'></Dist>	
+		<Dist id='Rampur' pop='' popyear='' abbr='RA'></Dist>	
+		<Dist id='Raebareli' pop='' popyear='' abbr='RB'></Dist>	
+		<Dist id='Saharanpur' pop='' popyear='' abbr='SA'></Dist>	
+		<Dist id='Sitapur' pop='' popyear='' abbr='SI'></Dist>	
+		<Dist id='Shahjahanpur' pop='' popyear='' abbr='SJ'></Dist>	
+		<Dist id='Sant_Kabir_Nagar' pop='' popyear='' abbr='SK'></Dist>	
+		<Dist id='Siddharthnagar' pop='' popyear='' abbr='SN'></Dist>	
+		<Dist id='Sonbhadra' pop='' popyear='' abbr='SO'></Dist>	
+		<Dist id='Sant_Ravidas_Nagar' pop='' popyear='SR' abbr=''></Dist>	
+		<Dist id='Sultanpur' pop='' popyear='' abbr='SU'></Dist>	
+		<Dist id='Shravasti' pop='' popyear='' abbr='SV'></Dist>	
+		<Dist id='Unnao' pop='' popyear='' abbr='UN'></Dist>	
+		<Dist id='Varanasi' pop='' popyear='' abbr='VA'></Dist>
+	</State>
+	<State id='Uttarakhand' pop='' popyear='' abbr='UK' capital='Dehradun'>		
+		<Dist id='Almora' pop='' popyear='' abbr='AL'></Dist>
+		<Dist id='Bageshwar' pop='' popyear='' abbr='BA'></Dist>
+		<Dist id='Chamoli' pop='' popyear='' abbr='CL'></Dist>
+		<Dist id='Champawat' pop='' popyear='' abbr='CP'></Dist>
+		<Dist id='Dehradun' pop='' popyear='' abbr='DD'></Dist>
+		<Dist id='Haridwar' pop='' popyear='' abbr='HA'></Dist>
+		<Dist id='Nainital' pop='' popyear='' abbr='NA'></Dist>
+		<Dist id='Pauri_Garhwal' pop='' popyear='' abbr='PG'></Dist>
+		<Dist id='Pithoragarh' pop='' popyear='' abbr='PI'></Dist>
+		<Dist id='Rudraprayag' pop='' popyear='' abbr='RP'></Dist>
+		<Dist id='Tehri_Garhwal' pop='' popyear='' abbr='TG'></Dist>
+		<Dist id='Udham_Singh_Nagar' pop='' popyear='' abbr='US'></Dist>
+		<Dist id='Uttarkashi' pop='' popyear='' abbr='UT'></Dist>
+	</State>
+	<State id='West_Bengal' pop='' popyear='' abbr='WB' capital='Kolkata'>
+		<Dist id='Birbhum' pop='' popyear='' abbr='BI'></Dist>
+		<Dist id='Bankura' pop='' popyear='' abbr='BN'></Dist>
+		<Dist id='Bardhaman' pop='' popyear='' abbr='BN'></Dist>
+		<Dist id='Darjeeling' pop='' popyear='' abbr='DA'></Dist>
+		<Dist id='Dakshin_Dinajpur' pop='' popyear='DD' abbr=''></Dist>
+		<Dist id='Hooghly' pop='' popyear='' abbr='HG'></Dist>
+		<Dist id='Howrah' pop='' popyear='' abbr='HR'></Dist>
+		<Dist id='Jalpaiguri' pop='' popyear='' abbr='JA'></Dist>
+		<Dist id='Cooch_Behar' pop='' popyear='' abbr='KB'></Dist>
+		<Dist id='Kolkata' pop='' popyear='' abbr='KO'></Dist>
+		<Dist id='Paschim_Medinipur' pop='' popyear='' abbr='MA'></Dist>
+		<Dist id='Purba_Medinipur' pop='' popyear='' abbr='MB'></Dist>
+		<Dist id='Murshidabad' pop='' popyear='' abbr='MU'></Dist>
+		<Dist id='Nadia' pop='' popyear='' abbr='NA'></Dist>
+		<Dist id='North_24_Parganas' pop='' popyear='' abbr='PN'></Dist>
+		<Dist id='South_24_Parganas' pop='' popyear='' abbr='PS'></Dist>
+		<Dist id='Purulia' pop='' popyear='' abbr='PU'></Dist>
+		<Dist id='Uttar_Dinajpur' pop='' popyear='' abbr='UD'></Dist>
+	</State>
+</Country>

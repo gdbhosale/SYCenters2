@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:isScrollContainer="true"
+        android:orientation="vertical" >
+
+        <TextView
+            style="@style/title_style"
+            android:text="Please make sure that this Center is not already there."
+            android:textColor="#FF0066" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="City/Village:" />
+
+        <EditText
+            android:id="@+id/cityName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="like Pune"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Center Name:" />
+
+        <EditText
+            android:id="@+id/centerName"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="like Pratishthan Center"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Center Region:" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Spinner
+                android:id="@+id/spiStates"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.8" />
+
+            <Spinner
+                android:id="@+id/spiDistricts"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2" />
+        </LinearLayout>
+
+        <View
+            android:id="@+id/sep2"
+            android:layout_width="fill_parent"
+            android:layout_height="2.0px"
+            android:background="#CCC" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Center Address:" />
+
+        <EditText
+            android:id="@+id/address"
+            android:layout_width="fill_parent"
+            android:layout_height="100.0dip"
+            android:gravity="top"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Center Time:" />
+
+        <Spinner
+            android:id="@+id/spiDay"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <Spinner
+                android:id="@+id/spiHour"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3" />
+
+            <Spinner
+                android:id="@+id/spiMinute"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3" />
+
+            <Spinner
+                android:id="@+id/spiAMPM"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.3" />
+        </LinearLayout>
+
+        <TextView
+            style="@style/title_style"
+            android:text="Co-ordinator I" />
+
+        <EditText
+            android:id="@+id/cord1Name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/cord1Phone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phone Number"
+            android:inputType="phone"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/cord1Email"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email Address"
+            android:inputType="textEmailAddress"
+            android:singleLine="true" />
+
+        <View
+            android:id="@+id/sep2"
+            android:layout_width="fill_parent"
+            android:layout_height="2.0px"
+            android:background="#CCC" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Co-ordinator II" />
+
+        <EditText
+            android:id="@+id/cord2Name"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Name"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/cord2Phone"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Phone Number"
+            android:inputType="phone"
+            android:singleLine="true" />
+
+        <EditText
+            android:id="@+id/cord2Email"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email Address"
+            android:inputType="textEmailAddress"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Your Email ID" />
+
+        <EditText
+            android:id="@+id/userEmail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Email Address"
+            android:inputType="textEmailAddress"
+            android:singleLine="true" />
+
+        <TextView
+            style="@style/title_style"
+            android:text="Your Mobile Number" />
+
+        <EditText
+            android:id="@+id/userMobile"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="Mobile Number"
+            android:inputType="phone"
+            android:singleLine="true" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <EditText
+                android:id="@+id/strength"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.4"
+                android:hint="Strength"
+                android:inputType="number"
+                android:singleLine="true" />
+
+            <Button
+                android:id="@+id/addCenter"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.6"
+                android:text="Add Center" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
